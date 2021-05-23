@@ -5,7 +5,7 @@ Welcome to my profile! My name is Karen Choi and I'm a former auditor turned sof
 ## About Me 👩🏻‍💻
 
 - 🔭 I’m currently a student at the Grace Hopper Program at Fullstack Academy (graduating in July 2021 🎉)
-- 🌱 I’m currently learning [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/seungahchoi/)!
 
 <!-- - 📝 Resume: -->
