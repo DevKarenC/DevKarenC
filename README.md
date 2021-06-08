@@ -7,6 +7,7 @@ Welcome to my profile! My name is Karen Choi and I'm a former auditor turned sof
 - 🔭 I’m currently a student at the Grace Hopper Program at Fullstack Academy (graduating in July 2021 🎉)
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/seungahchoi/)!
+- 👩🏻‍💻 Check out my [portfolio](https://devkarenc.github.io/karen-portfolio-v1/)!
 
 <!-- - 📝 Resume: -->
 
@@ -29,7 +30,9 @@ Welcome to my profile! My name is Karen Choi and I'm a former auditor turned sof
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman badge" style="vertical-align:top margin: 6px 4px">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva badge" style="vertical-align:top margin: 6px 4px">
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha badge" style="vertical-align:top margin: 6px 4px"/>
+<img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine badge" style="vertical-align:top margin: 6px 4px"/>
+
 <!-- <img src="" alt="Sequelize badge" style="vertical-align:top margin: 6px 4px"> -->
 </p>
 
