@@ -1,10 +1,10 @@
 ## Hi there ☀️ I'm Karen!
 
-Welcome to my profile! My name is Karen Choi and I'm a former auditor turned software engineer. Before attending the Grace Hopper Program at Fullstack Academy, I spent 8 months self-studying and building various projects (thanks to The Odin Project and teachers on YouTube!) everyday after work. Now as part of the immersive software engineering program, I am learning more than ever and excited to start working again in the tech industry! 🥳
+Welcome to my profile! My name is Karen Choi and I'm a former auditor turned software engineer. Before attending the Grace Hopper Program at Fullstack Academy, I spent 8 months self-studying and building various projects (thanks to The Odin Project and teachers on YouTube!) everyday after work. Now that I'm graduated from the immersive software engineering program, I am excited to start working again in the tech industry! 🥳
 
 ## About Me 👩🏻‍💻
 
-- 🔭 I’m currently a student at the Grace Hopper Program at Fullstack Academy (graduating in July 2021 🎉)
+- 🔭 I graduated from the Grace Hopper Program at Fullstack Academy
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/seungahchoi/" target="_blank">LinkedIn</a>!
 - 👩🏻‍💻 Check out my <a href="https://devkarenc.github.io/karen-portfolio-v1/" target="_blank">portfolio</a>!
