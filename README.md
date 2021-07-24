@@ -21,10 +21,12 @@ Welcome to my profile! My name is Karen Choi and I'm a former auditor turned sof
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" style="vertical-align:top margin: 6px 4px">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React-Router badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" style="vertical-align:top margin: 6px 4px">
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku badge" style="vertical-align:top margin: 6px 4px">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" style="vertical-align:top margin: 6px 4px">
@@ -37,6 +39,8 @@ Welcome to my profile! My name is Karen Choi and I'm a former auditor turned sof
 
 ## Projects 💻
 
+- [Tingle: Social Media Mobile App](https://github.com/03-cs-wockys-waywards/capstone)
+- [Weather App](https://github.com/DevKarenC/weather-app)
 - [US Covid-19 Tracker](https://github.com/DevKarenC/covid-tracker)
 - [SpongeBob SquarePants Themed Memory Game](https://github.com/DevKarenC/react-memory-card-game)
 - [100 Days of Code Challenge](https://github.com/DevKarenC/100-days-of-code)
